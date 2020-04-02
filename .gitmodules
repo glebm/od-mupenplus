@@ -1,0 +1,3 @@
+[submodule "deps/GLideN64"]
+	path = deps/GLideN64
+	url = https://github.com/gonetz/GLideN64.git
